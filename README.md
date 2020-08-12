@@ -14,3 +14,6 @@ Ejercicio de diseño de bases de datos
      Los candidatos, al ver una oferta de empleo de su interés, se inscribirán en ella para poder participar el proceso de selección correspondiente.
     Las ofertas de empleo se clasificarán por categorías profesionales y estas categorías se organizarán de forma jerárquica para facilitar la búsqueda de ofertas por parte de los demandantes de empleo (p.ej. “Business Intelligence” como subcategoría de “Sistemas de Información” o “Estadística” como especialidad de “Matemáticas”).
     Los candidatos podrán subscribirse a un servicio de notificaciones por correo electrónico de las ofertas de empleo correspondientes a las categorías que sean de su interés.
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  MER
+  ![imagen](https://user-images.githubusercontent.com/33724863/90053002-85beb480-dc9f-11ea-865b-722fca69527c.png)
